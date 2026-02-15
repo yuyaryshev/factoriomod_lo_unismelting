@@ -1,11 +1,11 @@
 
 {
   "name": "lo_unismelting",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "title": "Unismelting",
   "author": "LordOdin",
   "homepage": "none",
   "description": "Makes smelting recipes always require only 1 item, but sets probability accordingly. Balance unchanged, but now you can use one smelter to smelt any ore or iron plates at once. You might ask 'Why can't I do it without this mod? Well, suppose you have a mixed belt full of iron ore and iron plates, an inserter puts 3 plates into furnace and than comes some ore, so all stucks. This mod fixes just that.'",
-  "dependencies": ["base >= 0.15.0"],
+  "dependencies": ["base >= 0.15.0","? ev-refining >= 0.1.0"],
   "factorio_version": "2.0"
 } 
